@@ -5,6 +5,15 @@ This project simulates an end-to-end business case focused on analyzing the perf
 - Exploratory data analysis (Excel)
 - Interactive visualizations (Power BI)
 - Executive summary (PDF report)
+  ## 🧠Notes
+
+This project originally relied on Excel-based calculations.  
+Due to GitHub’s 25MB file size limit, the Excel file is hosted on Google Drive instead:  
+➡️ [Open Excel (Google Sheets format)](https://docs.google.com/spreadsheets/d/1ygTBl7NrWGQefUU4ZadRP-YAAXa5Du4Q/edit?usp=sharing)
+
+**Important:**  
+Some formulas (e.g., `SUMPRODUCT`, `SORT`, `UNIQUE`) may not function identically in Google Sheets due to compatibility differences.
+
 
 ## 📂 Project Files
 
