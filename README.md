@@ -1,6 +1,6 @@
 # Apparel Category Performance Analysis (Portfolio Project)
 
-This project simulates an end-to-end business case focused on analyzing the performance of denim products over a 2-week period. It demonstrates key business analyst skills including:
+This project simulates an end-to-end business case focused on analyzing the performance of denim products over a 26-week period. It demonstrates key business analyst skills including:
 
 - Exploratory data analysis (Excel)
 - Interactive visualizations (Power BI)
