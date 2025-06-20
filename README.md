@@ -2,9 +2,9 @@
 
 This project simulates an end-to-end business case focused on analyzing the performance of denim products over a 26-week period. It demonstrates key business analyst skills including:
 
-- Exploratory data analysis (Excel) https://docs.google.com/spreadsheets/d/1ygTBl7NrWGQefUU4ZadRP-YAAXa5Du4Q/edit?gid=1504276010#gid=1504276010 
-- Interactive visualizations (Power BI) mert_ovet_ecommerce_case_study calculations and visualizations.pbix
-- Executive summary (PDF report) fastfashion_denim_case_study_report.pdf.docx.pdf 
+- Exploratory data analysis (Excel) [**Excel Data and initial calculations and data cleaning*](https://docs.google.com/spreadsheets/d/1ygTBl7NrWGQefUU4ZadRP-YAAXa5Du4Q/edit?gid=1504276010#gid=1504276010)
+- Interactive visualizations [**Futher DAX Calculations, KPI generations and Visualizations*](https://github.com/movet306/apparel-category-performance-analysis/blob/main/mert_ovet_ecommerce_case_study%20calculations%20and%20visualizations.pbix)
+- Executive summary (PDF report) fastfashion_denim_case_study_report.pdf.docx.pdf [**Final PDF Report*][(https://docs.google.com/spreadsheets/d/1ygTBl7NrWGQefUU4ZadRP-YAAXa5Du4Q/edit?gid=1504276010#gid=1504276010](https://github.com/movet306/apparel-category-performance-analysis/blob/main/fastfashion_denim_case_study_report.pdf.docx.pdf))
   ## 🧠Notes
 
 This project originally relied on Excel-based calculations.  
